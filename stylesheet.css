@@ -40,7 +40,7 @@ h1{
 		border: 1px solid black;
 		position:relative;
 		margin: 1px;
-		
+		background-color:grey;
 		
 	}
 	
@@ -54,10 +54,12 @@ h1{
 		border: 1px solid black;
 		margin: 5px;
 		height: 162px;
+		background-color:grey;
 	}
 	.col-t-1{
 		width: 48%;
 		position:relative;
+		
 	
 	}
 	.col-t-2{
@@ -74,6 +76,7 @@ h1{
 		border: 1px solid black;
 		position:relative;
 		margin: 5px;
+		background-color:grey;
 
 		
 	}
